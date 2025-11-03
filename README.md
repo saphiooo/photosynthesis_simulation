@@ -9,7 +9,7 @@ The variables for the simulation are editable in the code editor on the left; us
 - Strength of the light, relatively, from 0 (no light) to 10 (bright light).
 - Amount of carbon dioxide, relatively, from 0 (no CO_2) to 10 (high amount of CO_2).
 An example setup is,
-```
+```js
 // Color of light: you can assign COLORLESS, RED, BLUE, or GREEN
 let filterColor = RED;
 
